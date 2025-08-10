@@ -16,11 +16,10 @@ A Bionic ROV Design Inspired by Undulatory Anal Fin Propulsion of *Electrophorus
 ## Github内容说明
 1. 工程图纸：包含上壳体、下壳体、旋转夹、最小单元以及总装配共五份图纸的PDF文件，展示了从局部到整体的设计细节；
 2. 作品照片：展示了实物样机的内部结构、前侧面、水面工作状态、臀鳍及防水密封；
-3. 展示视频说明及下载链接.txt：
-    由于展示视频超出 GitHub 默认上传限制，因此通过网盘的方式分享，如有需要请自行通过下方的链接下载观看
+3. 展示视频说明及下载链接.txt：由于展示视频超出 GitHub 默认上传限制，因此通过网盘的方式分享，如有需要请自行通过下方的链接下载观看
     - [Google Drive](https://drive.google.com/file/d/1PDIGGTYoWmrYn7ycn_xpx32D-CKFZNyk/view?usp=drive_link)
     - [百度网盘](https://pan.baidu.com/s/1xlGyySQqaUZAPxeiWi7gCg?pwd=NMNM)
-    本视频详细介绍了本设计的：
+- 本视频详细介绍了本设计的：
     - 仿生对象（灵感来源）；
     - 总体三维模型；
     - 核心机构（阵列式谐波发生装置）的设计、工作原理和传动方案；
