@@ -1,0 +1,9 @@
+由于展示视频超出 GitHub 默认上传限制，因此通过网盘的方式分享，如有需要请自行通过下方的链接下载观看：
+    Google Drive > https://drive.google.com/file/d/1PDIGGTYoWmrYn7ycn_xpx32D-CKFZNyk/view?usp=drive_link
+    百度网盘 > https://pan.baidu.com/s/1xlGyySQqaUZAPxeiWi7gCg?pwd=NMNM
+
+本视频详细介绍了本设计的：
+    - 仿生对象（灵感来源）；
+    - 总体三维模型；
+    - 核心机构（阵列式谐波发生装置）的设计、工作原理和传动方案；
+    - 实机演示。包含波形的生成、前进后退状态、尾鳍转向状态以及水面运动展示。
